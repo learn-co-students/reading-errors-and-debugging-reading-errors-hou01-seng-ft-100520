@@ -1,3 +1,2 @@
-"hello world"
+Print "hello world"
 
-hello_world
